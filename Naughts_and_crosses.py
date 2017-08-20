@@ -1,6 +1,6 @@
 # Winning positions, represented as bit masks
 wins = [
-    '', '', '',    # Across
+    '', '', '',                                     # Across
     '100 100 100', '010 010 010', '001 001 001',    # Down
     '100 010 001', '001 010 100',                   # Diagonal
 ]
